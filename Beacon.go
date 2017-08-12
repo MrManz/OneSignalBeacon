@@ -1,4 +1,4 @@
-package Beacon
+package main
 
 import (
 	"github.com/tbalthazar/onesignal-go"
