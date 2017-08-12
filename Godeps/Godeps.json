@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/MrManz/OneSignal",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/tbalthazar/onesignal-go",
+			"Rev": "312530be66c85e2271bd745a7cbb54b620ab119e"
+		}
+	]
+}
