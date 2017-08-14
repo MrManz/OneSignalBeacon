@@ -4,7 +4,7 @@ import (
 	"github.com/tbalthazar/onesignal-go"
 )
 
-func sendNotification(message string) error {
+func SendNotification(message string) error {
 	//Takes a string and sends it as a notification to all users of the app
 
 	client := onesignal.NewClient(nil)
